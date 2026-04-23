@@ -1,4 +1,4 @@
-# Projeto Desenvolvimento Web
+# Projeto Desenvolvimento Web - Bimestre 2
 
 ## Instalação e Execução
 
@@ -11,13 +11,13 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clonar o repositório:
 
    ```sh
-   git clone https://github.com/luan-tavares/unifaat-projeto-desenvolvimento-web
+   git clone https://github.com/luan-tavares/unifaat-2026-dw-project
    ```
 
 2. Entrar na pasta do projeto:
 
    ```sh
-   cd unifaat-projeto-desenvolvimento-web
+   cd unifaat-2026-dw-project
    ```
 
 3. Instalar as dependências:
